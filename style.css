@@ -1,0 +1,23 @@
+table, td, th {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 15px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 70%;
+            margin-left: 15%;
+            margin-right: 15%;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        form {
+            width: 50%;
+            margin-left:25%;
+            margin-right:25%;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
